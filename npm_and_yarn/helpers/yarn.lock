@@ -352,10 +352,10 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@dependabot/yarn-lib@^1.21.1":
-  version "1.21.1"
-  resolved "https://registry.npmjs.org/@dependabot/yarn-lib/-/yarn-lib-1.21.1.tgz#52098b3feac530fe4a5765f0ccc9ac982f19f5e7"
-  integrity sha512-wroyXO/e0h077IkPxLGJRIdMYzQWGIiLiYrhx2y6pwDfh6I492Saof5G80si21ltU3fHpCpGlB9cenr9b7Ak3Q==
+"@dependabot/yarn-lib@^1.22.19":
+  version "1.22.19"
+  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.22.19.tgz#7dc2bd59ab7e51582c229aef40868d840f51066a"
+  integrity sha512-+ayu/53xZOUpRvQrzlhkHPogTNnmu+UIxd2S+IfQDLfBhyhrLqPB8F3kjIkGZRyNXPed2MyxEljyEVBSljPmxw==
   dependencies:
     "@zkochan/cmd-shim" "^3.1.0"
     babel-runtime "^6.26.0"
