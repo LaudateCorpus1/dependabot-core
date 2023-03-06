@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/vcs v1.13.3
 	github.com/dependabot/dependabot-core/go_modules/helpers/updater v0.0.0
 	github.com/dependabot/gomodules-extracted v1.4.2
-	golang.org/x/mod v0.7.0
+	golang.org/x/mod v0.9.0
 )
 
 replace github.com/dependabot/dependabot-core/go_modules/helpers/importresolver => ./importresolver
